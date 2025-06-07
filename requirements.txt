@@ -1,0 +1,12 @@
+edge-tts
+soundfile
+librosa
+python-dotenv
+rvc
+fairseq
+torch
+ollama
+discord.py
+tqdm
+loguru
+PyNaCl
